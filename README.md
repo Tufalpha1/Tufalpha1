@@ -5,7 +5,8 @@ I'm zayn and i'm a cybersecurity student
 
 •	TryHackMe: 
 
-![image](https://user-images.githubusercontent.com/96716299/170837211-242be2a5-4cdd-4700-b6ac-7583757a299c.png)
+![image](https://user-images.githubusercontent.com/96716299/170837263-dcb00546-beec-460e-9172-ead9963778f3.png)
+
 
 
 •	Discord: not zayn #3977
