@@ -4,7 +4,8 @@ I'm zayn and i'm a cybersecurity student
 •	Linkedin: https://www.linkedin.com/in/mzain-ul-abideen/
 
 •	TryHackMe:
-<script src="https://tryhackme.com/badge/607643"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
+
 
 •	Discord: not zayn#3977
 
