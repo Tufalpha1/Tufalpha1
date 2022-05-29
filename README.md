@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm zayn and i'm a cybersecurity student 
+I'm zayn. I'm a cybersecurity student and i love playing games. 
 
 •	Linkedin: https://www.linkedin.com/in/mzain-ul-abideen/
 
