@@ -8,7 +8,6 @@ I'm zayn. I'm a cybersecurity student and i love playing games.
   <img align="left" alt="Zain's steam" width="30px" src="https://img.icons8.com/color/48/000000/steam.png"/>
 </a>
 <br>
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
 •	Discord: not zayn#3977
 <br>
