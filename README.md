@@ -8,6 +8,8 @@ I'm zayn and i'm a cybersecurity student
 <img src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
 
 
+•	Steam id: https://steamcommunity.com/profiles/76561199101700911
+
 •	Discord: not zayn#3977
 
 #### Github stats
