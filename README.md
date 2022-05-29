@@ -9,9 +9,9 @@ I'm zayn. I'm a cybersecurity student and i love playing games.
 </a>
 
 
-•	TryHackMe:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
+
+•	TryHackMe: <img src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
 
 •	Discord: not zayn#3977
 
