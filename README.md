@@ -1,5 +1,5 @@
 ##### Hi there 👋
-I'm zayn. I'm a cybersecurity student and i love playing games. 
+I'm zayn. A cybersecurity student and i play games :D 
 
 <a href="https://www.linkedin.com/in/mzain-ul-abideen/" target="_blank">
   <img align="left" alt="Zain's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
