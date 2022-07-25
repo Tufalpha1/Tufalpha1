@@ -18,12 +18,11 @@ I'm zayn. I'm a Cybersecurity student and a Full Stack Web Developer.
 ### Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://www.pngwing.com/en/free-png-ilmnt" width="32" height="32" /></a>
+<a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://steamcommunity.com/profiles/76561199101700911" target="_blank"><img align="left" alt="Zain's steam" width="30px" src="https://img.icons8.com/color/48/000000/steam.png"/></a>
 </p>
 
 <p>
-<a href="https://steamcommunity.com/profiles/76561199101700911" target="_blank"><img align="left" alt="Zain's steam" width="30px" src="https://img.icons8.com/color/48/000000/steam.png"/></a>
 <br>
 <img  align="middle" src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
 </p>
