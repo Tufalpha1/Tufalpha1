@@ -19,7 +19,7 @@ I'm zayn. I'm a Cybersecurity student and a Full Stack Web Developer.
 <p align="left">
 <a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://www.pngwing.com/en/free-png-ilmnt" width="32" height="32" /></a>
 </p>
 
 <p>
