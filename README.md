@@ -21,15 +21,15 @@ I'm zayn. A cybersecurity student and i play games :D
 <a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/steam.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
-<a href="https://www.linkedin.com/in/mzain-ul-abideen/" target="_blank">
-  <img align="left" alt="Zain's LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
+
+<p>
 <a href="https://steamcommunity.com/profiles/76561199101700911" target="_blank">
   <img align="left" alt="Zain's steam" width="30px" src="https://img.icons8.com/color/48/000000/steam.png"/>
 </a>
 <br>
 <img  align="middle" src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
 •	Discord: not zayn#3977
+  </p>
 <br>
 
 ##### Github stats
