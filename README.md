@@ -1,5 +1,6 @@
 ##### Hi there 👋
-I'm zayn. A cybersecurity student and i'm a developer :D 
+I'm zayn. I'm a Cybersecurity student and a Full Stack Web Developer.
+---------------------------------------------------------------------
 
 ### Skills
 <p align="left">
@@ -18,6 +19,7 @@ I'm zayn. A cybersecurity student and i'm a developer :D
 <p align="left">
 <a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg" width="32" height="32" /></a>
 </p>
 
 <p>
