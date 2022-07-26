@@ -1,5 +1,5 @@
 ##### Hi there 👋
-I'm zayn. I'm a Cybersecurity student and a Full Stack Web Developer.
+I'm zayn. A Cybersecurity student and a Full Stack Web Developer.
 ---------------------------------------------------------------------
 
 ### Skills
