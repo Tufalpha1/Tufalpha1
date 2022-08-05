@@ -19,7 +19,6 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 <p align="left">
 <a href="https://www.linkedin.com/in/thearvindrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://steamcommunity.com/profiles/76561199101700911" target="_blank"><img align="left" alt="Zain's steam" width="30px" src="https://img.icons8.com/color/48/000000/steam.png"/></a>
 </p>
 
 <p>
@@ -29,6 +28,6 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 <br>
 
 ### Github stats
-![](https://github-readme-stats.vercel.app/api?username=tufalpha1&show_icons=true&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=tufalpha1&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tufalpha1&theme=gotham)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tufalpha1&theme=nightowl)]
