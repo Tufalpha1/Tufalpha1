@@ -1,9 +1,7 @@
 <h1 align="left"> Hi there 👋</h1>
-<p align="left">
+<h5 align="left">
   I'm zayn. A Cybersecurity student and a MERN Stack Developer.
-  <br>
----------------------------------------------------------------------
-  </p>
+  </h5>
 
 <h2 align="left">Skills</h2>
 <p align="left">
