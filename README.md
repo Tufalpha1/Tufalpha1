@@ -28,8 +28,10 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 <br>
 
 ### Github stats
-![](https://github-readme-stats.vercel.app/api?username=tufalpha1&show_icons=true&theme=nightowl)
-
-[![Top Langs]<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tufalpha1&layout=compact&langs_count=10&theme=nightowl"/>]
-
+<p align="center">
+  <a href="https://github.com/Tufalpha1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?        =tufalpha1&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tufalpha1&layout=compact&langs_count=10&theme=nightowl"/>
+  </a>
+</p>
 
