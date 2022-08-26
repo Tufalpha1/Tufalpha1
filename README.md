@@ -15,10 +15,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 
 
 <h2 align="left">Socials</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/mzain-ul-abideen/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-</p>
+![linkedin](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 <h2 align="left">TryHackMe</h2>
 <p align="left">
