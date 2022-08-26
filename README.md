@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there 👋</h1>
 I'm zayn. A Cybersecurity student and a MERN Stack Developer.
-<img src="./web wallpaper.jpg" alt="wallpaper">
+
 <h2 align="left">Skills</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -15,7 +15,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 
 
 <h2 align="left">Socials</h2>
-(https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)
+<img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" >
 
 <h2 align="left">TryHackMe</h2>
 <p align="left">
