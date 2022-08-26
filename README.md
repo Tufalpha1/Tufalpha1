@@ -22,12 +22,6 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" >
 </div>
 
-<h2 align="left">TryHackMe</h2>
-<p align="left">
-<br>
-<img  align="middle" src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
-</p>
-<br>
 
 <h2 align="left">My current tech stack</h2>
 <div style={display: inline-block}>
@@ -36,6 +30,15 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" >
 </div>
+
+
+<h2 align="left">TryHackMe</h2>
+<p align="left">
+<br>
+<img  align="middle" src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
+</p>
+<br>
+
 
 <h2 align="left">Github stats</h2>
 <p align="left">
