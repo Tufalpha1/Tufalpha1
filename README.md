@@ -15,7 +15,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 
 
 <h2 align="left">Socials</h2>
-![linkedin] (https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 <h2 align="left">TryHackMe</h2>
 <p align="left">
