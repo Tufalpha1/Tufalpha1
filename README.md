@@ -16,7 +16,8 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 
 <h2 align="left">Socials</h2>
 <div style={display: inline-block}>
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" href="https://www.linkedin.com/in/mzain-ul-abideen/">
+  <a href="https://www.linkedin.com/in/mzain-ul-abideen/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white">
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" >
   <img src="https://img.shields.io/badge/Discord-800080?style=for-the-badge&logo=Discord&logoColor=white" >
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" >
