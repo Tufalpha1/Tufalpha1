@@ -40,9 +40,9 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 
 <h2 align="left">Badges</h2>
 <p align="left">
-<img src="https://drive.google.com/file/d/1Gyq6IEiT5ztBP66dpdait5DASAGGTsUn/view?usp=sharing" width="36" height="36" alt="NSE-1" />
-<img src="https://drive.google.com/file/d/1cDbzEh47FD6Zg366Xi8Oatlt7COKD7zO/view?usp=sharing" width="36" height="36" alt="NSE-2" />
-<img src="https://drive.google.com/file/d/1U9evrw3W6JWrmQ1smQDSZjMCW01z44lA/view?usp=sharing" width="36" height="36" alt="NSE-3" />
+<img src="https://ibb.co/Nx0D1Tv" width="36" height="36" alt="NSE-1" />
+<img src="https://ibb.co/ynGrB5C" width="36" height="36" alt="NSE-2" />
+<img src="https://ibb.co/b2JHYvM" width="36" height="36" alt="NSE-3" />
 <img src="https://images.credly.com/size/680x680/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="36" height="36" alt="IBM" />
 </p>
 
