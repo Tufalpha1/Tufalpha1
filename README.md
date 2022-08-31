@@ -38,10 +38,12 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 </div>
 
 
-<h2 align="left">TryHackMe</h2>
+<h2 align="left">Badges</h2>
 <p align="left">
-<br>
-<img  align="middle" src="https://tryhackme-badges.s3.amazonaws.com/Tufalpha1.png" alt="TryHackMe">
+<img src="https://drive.google.com/file/d/1Gyq6IEiT5ztBP66dpdait5DASAGGTsUn/view?usp=sharing" width="36" height="36" alt="NSE-1" />
+<img src="https://drive.google.com/file/d/1cDbzEh47FD6Zg366Xi8Oatlt7COKD7zO/view?usp=sharing" width="36" height="36" alt="NSE-2" />
+<img src="https://drive.google.com/file/d/1U9evrw3W6JWrmQ1smQDSZjMCW01z44lA/view?usp=sharing" width="36" height="36" alt="NSE-3" />
+<img src="https://drive.google.com/file/d/1kHj_q7NgnI08OfJWcOfvAz06KgWaPsYw/view?usp=sharing" width="36" height="36" alt="IBM" />
 </p>
 <br>
 
