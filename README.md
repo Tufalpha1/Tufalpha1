@@ -43,9 +43,8 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 <img src="https://drive.google.com/file/d/1Gyq6IEiT5ztBP66dpdait5DASAGGTsUn/view?usp=sharing" width="36" height="36" alt="NSE-1" />
 <img src="https://drive.google.com/file/d/1cDbzEh47FD6Zg366Xi8Oatlt7COKD7zO/view?usp=sharing" width="36" height="36" alt="NSE-2" />
 <img src="https://drive.google.com/file/d/1U9evrw3W6JWrmQ1smQDSZjMCW01z44lA/view?usp=sharing" width="36" height="36" alt="NSE-3" />
-<img src="https://drive.google.com/file/d/1kHj_q7NgnI08OfJWcOfvAz06KgWaPsYw/view?usp=sharing" width="36" height="36" alt="IBM" />
+<img src="https://images.credly.com/size/680x680/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="36" height="36" alt="IBM" />
 </p>
-<br>
 
 
 <h2 align="left">Github stats</h2>
