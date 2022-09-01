@@ -17,7 +17,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
-<img src="https://skills.thijs.gg/icons?i=js,html,css&theme=dark" >
+
 
 
 <h2 align="left">Socials</h2>
@@ -30,12 +30,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 
 
 <h2 align="left">My current tech stack</h2>
-<div style={display: inline-block}>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" >
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" >
-</div>
+<img src="https://skills.thijs.gg/icons?i=mongodb,express,react,nodejs&theme=dark" >
 
 
 <h2 align="left">Badges</h2>
