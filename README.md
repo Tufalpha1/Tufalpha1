@@ -1,11 +1,6 @@
 <h1 align="left"> Hi there 👋</h1>
 I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 
-<h2 align="left">Skills</h2>
-<img src="https://skills.thijs.gg/icons?i=javascript,typescript,cpp,html,css,bootstrap,sass,jquery,react,nodejs,express,mongodb,git&theme=dark" >
-
-
-
 <h2 align="left">Socials</h2>
 <div style={display: inline-block}>
   <a href="https://www.linkedin.com/in/mzain-ul-abideen/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
@@ -31,6 +26,9 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.
 <img src="https://i.ibb.co/P9QTJWv/3-associate-logo.png" width="70" height="70" alt="NSE-3" />
 <img src="https://images.credly.com/size/680x680/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="70" height="70" alt="IBM" />
 </p>
+    
+<h2 align="left">Skills</h2>
+<img src="https://skills.thijs.gg/icons?i=javascript,typescript,cpp,html,css,bootstrap,sass,jquery,react,nodejs,express,mongodb,git&theme=dark" >
 
 
 <h2 align="left">Github stats</h2>
