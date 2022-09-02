@@ -1,8 +1,8 @@
 <h1 align="left"> Hi there 👋</h1>
-I'm zayn. A Cybersecurity student and a MERN Stack Developer.
-• 👨🏽‍💻 I’m currently working on react js.
-• 🌱 I’m currently learning next js.
-• 📫 How to reach me: <a href="https://www.linkedin.com/in/mzain-ul-abideen/">Linkedin</a>
+I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
+• 👨🏽‍💻 I’m currently working on react js.<br />
+• 🌱 I’m currently learning next js.<br />
+• 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mzain-ul-abideen/)<br />
 
 
 <h2 align="left">Socials</h2>
