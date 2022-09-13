@@ -1,7 +1,7 @@
 <h1 align="left"> Hi there 👋</h1>
 I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
 • 👨🏽‍💻 I’m currently working on react js.<br />
-• 🌱 I’m currently learning next js.<br />
+• 🌱 I’m currently learning frontend technologies.<br />
 • 📫 How to reach me: <a href="https://www.linkedin.com/in/mzain-ul-abideen/">LinkedIn.</a><br />
 
 
