@@ -30,12 +30,12 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
 <img src="https://i.ibb.co/xSPN8Gb/2-associate-logo.png" width="70" height="70" alt="NSE-2" />
 <img src="https://i.ibb.co/P9QTJWv/3-associate-logo.png" width="70" height="70" alt="NSE-3" />
 <img src="https://images.credly.com/size/680x680/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="70" height="70" alt="IBM" />
-<img src="https://images.credly.com/size/680x680/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="70" height="70" alt="CIP" />
 <img src="https://images.credly.com/size/680x680/images/13a41f72-0d4b-4c88-b775-0badf995b59d/image.png" width="70" height="70" alt="FSA" />
+<img src="https://images.credly.com/size/680x680/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="70" height="70" alt="CIP" />
 </p>
     
 <h2 align="left">Skills</h2>
-<img src="https://skills.thijs.gg/icons?i=javascript,cpp,html,css,bootstrap,tailwindcss,sass,react,nodejs,express,mongodb,mysql,next,git&theme=dark" >
+<img src="https://skills.thijs.gg/icons?i=javascript,cpp,html,css,bootstrap,sass,tailwindcss,react,nodejs,express,mongodb,mysql,next,git&theme=dark" >
 
 
 <h2 align="left">Github stats</h2>
