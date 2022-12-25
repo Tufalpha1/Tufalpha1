@@ -34,7 +34,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
 </p>
     
 <h2 align="left">Skills</h2>
-<img src="https://skills.thijs.gg/icons?i=javascript,cpp,html,css,bootstrap,sass,tailwindcss,react,nodejs,express,mongodb,mysql,next,git&theme=dark" >
+<img src="https://skills.thijs.gg/icons?i=javascript,cpp,bootstrap,sass,tailwindcss,react,nodejs,express,mongodb,mysql,next,git&theme=dark" >
 
 
 <h2 align="left">Github stats</h2>
