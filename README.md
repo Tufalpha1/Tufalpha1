@@ -16,6 +16,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
 
 <h2 align="left">My current tech stack</h2>
 <div style={display: inline-block}>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" >
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" >
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
   <img src="https://img.shields.io/badge/Next.js-121011?style=for-the-badge&logo=next.js&logoColor=white" >
