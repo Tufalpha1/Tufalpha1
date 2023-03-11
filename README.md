@@ -34,7 +34,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
 </p>
     
 <h2 align="left">Skills</h2>
-<img src="skills.thijs.gg/icons?i=javascript,typescript,python,bootstrap,tailwindcss,react,next,nodejs,express,mongodb,mysql,prisma,docker&theme=dark" >
+<img height="25em" src="skills.thijs.gg/icons?i=javascript,typescript,python,bootstrap,tailwindcss,react,next,nodejs,express,mongodb,mysql,prisma,docker&theme=dark" >
 
 
 <h2 align="left">Github stats</h2>
@@ -44,4 +44,4 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tufalpha1&layout=compact&langs_count=10&theme=nightowl"/>
   </a>
 </p>
-
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tufalpha1&theme=nightowl&custom_title=streak-stats&hide_border=false&layout=compact" />
