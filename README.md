@@ -40,7 +40,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
 <h2 align="left">Github stats</h2>
 <p align="left">
   <a href="https://github.com/tufalpha1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tufalpha1&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>     
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tufalpha1&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>     
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tufalpha1&layout=compact&langs_count=10&theme=nightowl"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tufalpha1&theme=nightowl&custom_title=streakstats&hide_border=false&layout=compact"     />
   </a>
