@@ -31,7 +31,7 @@ I'm zayn. A Cybersecurity student and a MERN Stack Developer.<br />
 <img src="https://i.ibb.co/P9QTJWv/3-associate-logo.png" width="70" height="70" alt="NSE-3" />
 <img src="https://images.credly.com/size/680x680/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="70" height="70" alt="IBM" />
 <img src="https://images.credly.com/size/680x680/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="70" height="70" alt="CIP" />
-<img src="https://images.credly.com/size/340x340/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png" width="70" height="70" alt="ISC2" />
+<img src="https://www.credly.com/badges/ac196c37-e907-4183-b1d9-007ab4377fee/public_url" width="70" height="70" alt="ISC2" />
 </p>
     
 <h2 align="left">Skills</h2>
