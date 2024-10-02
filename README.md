@@ -36,7 +36,7 @@ I'm zayn. A Cybersecurity Graduate and a MERN Stack Developer.<br />
 </p>
     
 <h2 align="left">Skills</h2>
-<img src="[https://skills.thijs.gg/icons?i=javascript,typescript,python,bootstrap,tailwindcss,react,next,nodejs,express,mongodb,mysql,figma,docker,githubactions&theme=dark](https://skillicons.dev/icons?i=javascript,typescript,python,bootstrap,tailwindcss,react,next,nodejs,express,mongodb,mysql,postgresql,prisma,planetscale,postman,docker,azure,gcp,ipfs)" >
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,bootstrap,tailwindcss,react,next,nodejs,express,mongodb,mysql,postgresql,prisma,planetscale,postman,docker,azure,gcp,ipfs" >
 
 
 <h2 align="left">Github stats</h2>
