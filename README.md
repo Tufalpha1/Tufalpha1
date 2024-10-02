@@ -29,7 +29,6 @@ I'm zayn. A Cybersecurity Graduate and a MERN Stack Developer.<br />
 <img src="https://i.ibb.co/5TQpYK0/1-associate-logo.png" width="70" height="70" alt="NSE-1" />
 <img src="https://i.ibb.co/xSPN8Gb/2-associate-logo.png" width="70" height="70" alt="NSE-2" />
 <img src="https://i.ibb.co/P9QTJWv/3-associate-logo.png" width="70" height="70" alt="NSE-3" />
-<img src="https://images.credly.com/size/680x680/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="70" height="70" alt="IBM" />
 <img src="https://images.credly.com/size/680x680/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="70" height="70" alt="CIP" />
 <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="70" height="70" alt="Fortinet" />
 <img src="https://images.credly.com/size/110x110/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png" width="70" height="70" alt="Fortinet" />
