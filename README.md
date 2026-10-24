@@ -8,7 +8,7 @@ I'm zayn. A Cybersecurity Analyst and a Developer.<br />
 <h2 align="left">Socials</h2>
 <div style={display: inline-block}>
   <a href="mailto:zaynzafar18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mzain-ul-abideen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">     <a/>
+  <a href="https://www.linkedin.com/in/mzain-ul-abideen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
   <img src="https://img.shields.io/badge/Discord-663399?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
@@ -29,7 +29,7 @@ I'm zayn. A Cybersecurity Analyst and a Developer.<br />
 <img src="https://zain-portfolio-pi.vercel.app/assets/badges/cdsa.webp" width="70" height="70" alt="HTB CDSA" />
 <img src="https://zain-portfolio-pi.vercel.app/assets/badges/ecthp.svg" width="70" height="70" alt="eCTHP" />
 <img src="https://zain-portfolio-pi.vercel.app/assets/badges/ejpt.svg" width="70" height="70" alt="eJPT" />
-<img src="https://zain-portfolio-pi.vercel.app/assets/badges/icca.png" width="70" height="40" alt="ICCA" />
+<img src="https://zain-portfolio-pi.vercel.app/assets/badges/icca.png" width="40" height="70" alt="ICCA" />
 <img src="https://i.ibb.co/5TQpYK0/1-associate-logo.png" width="70" height="70" alt="NSE-1" />
 <img src="https://i.ibb.co/xSPN8Gb/2-associate-logo.png" width="70" height="70" alt="NSE-2" />
 <img src="https://i.ibb.co/P9QTJWv/3-associate-logo.png" width="70" height="70" alt="NSE-3" />
