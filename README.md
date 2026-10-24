@@ -1,7 +1,7 @@
 <h1 align="left"> Hi there 👋</h1>
-I'm zayn. A Cybersecurity Graduate and a MERN Stack Developer.<br />
-• 👨🏽‍💻 I’m currently working with Next JS.<br />
-• 🌱 I’m currently learning Blue Team technologies.<br />
+I'm zayn. A Cybersecurity Analyst and a Developer.<br />
+• 👨🏽‍💻 I’m currently working as SOC L2<br />
+• 🌱 Building platforms and doing blue team stuff.<br />
 • 📫 How to reach me: <a href="https://www.linkedin.com/in/mzain-ul-abideen/">LinkedIn.</a><br />
 
 
@@ -26,6 +26,7 @@ I'm zayn. A Cybersecurity Graduate and a MERN Stack Developer.<br />
 
 <h2 align="left">Badges</h2>
 <p align="left">
+<img src="[https://i.ibb.co/5TQpYK0/1-associate-logo.png](https://zain-portfolio-pi.vercel.app/assets/badges/cdsa.webp)" width="70" height="70" alt="NSE-1" />
 <img src="https://i.ibb.co/5TQpYK0/1-associate-logo.png" width="70" height="70" alt="NSE-1" />
 <img src="https://i.ibb.co/xSPN8Gb/2-associate-logo.png" width="70" height="70" alt="NSE-2" />
 <img src="https://i.ibb.co/P9QTJWv/3-associate-logo.png" width="70" height="70" alt="NSE-3" />
